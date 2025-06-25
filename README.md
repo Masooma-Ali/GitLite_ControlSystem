@@ -44,7 +44,7 @@ GitLite is a lightweight version control and database management system develope
 
   - Download the source.cpp
     
-  - Run it in Visual Studio. Make an empty project and add an .cpp file
+  - Run it in Visual Studio. Make an empty project and add a .cpp file
     
   - In Solution Explorer, right-click your project name (not the solution).
     
@@ -56,7 +56,7 @@ GitLite is a lightweight version control and database management system develope
     
   - Set it to : ISO C++17 Standard (/std:c++17)  or ISO C++20 Standard (/std:c++20)
     
-  - Make sure to replace the fiename in the code to your file.
+  - Make sure to replace the filename in the code to your file.
 
 
 
